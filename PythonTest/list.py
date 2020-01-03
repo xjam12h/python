@@ -86,6 +86,7 @@ print(list8)
 print(list9)
 print(list10)
 print(list11)
+#reversed(list6)でも可
 list6.reverse()
 print(list6)
 
